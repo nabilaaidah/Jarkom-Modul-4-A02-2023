@@ -396,3 +396,28 @@ iface eth0 inet static
 	netmask 255.255.252.0
 	gateway 10.0.20.1
 ```
+
+
+## Routing
+
+- Aura
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/b3832643-8ee3-49ce-8480-b531080cfe57)
+
+- Frieren
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/0b1de1bf-080f-4b5e-ac54-ca1cecb0cf62)
+
+- Flamme
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/6d7ba129-d22f-48c8-9b13-c702ade464ae)
+
+- Fern
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/9d72a8e4-d67f-4627-bf14-5cac52df4f6b)
+
+- Himmel
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/79bb6f4e-b83f-4300-8dd0-384910a45e9b)
+
+- 
