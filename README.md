@@ -420,4 +420,46 @@ iface eth0 inet static
 
 ![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/79bb6f4e-b83f-4300-8dd0-384910a45e9b)
 
-- 
+- Denken
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/e5d363b8-9aba-48ef-8ab7-3dfea1c12e8c)
+
+- Lugner
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/4a7e0e23-d3a3-4a4b-83e2-dbb21fc7598e)
+
+- Linie
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/01ae6bd4-6db0-425f-b518-9afdf4c8ca13)
+
+- Lawine
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/257d6191-ee02-421b-9a62-79565a47a286)
+
+- Heiter
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/66d43e3b-a8a5-4e20-aab6-3e0ecae93f86)
+
+
+
+# CIDR
+
+CIDR, atau Classless Inter-Domain Routing, adalah metode pengalamatan IP yang memungkinkan pengguna untuk mengelompokkan alamat IP ke dalam blok-blok yang lebih besar atau lebih kecil daripada batasan tradisional kelas (Classful addressing). Dalam CIDR, subnetting dilakukan secara fleksibel tanpa harus mematuhi batasan kelas A, B, atau C, sehingga memungkinkan alokasi alamat IP yang lebih efisien. Notasi CIDR menggunakan format "IP address/prefix length," di mana "prefix length" menunjukkan jumlah bit yang digunakan untuk mengidentifikasi jaringan, memungkinkan adanya blok-blok alamat dengan panjang yang bervariasi. CIDR membantu mengatasi masalah habisnya alamat IPv4 dengan memungkinkan penggunaan lebih efisien dan fleksibel dari sumber daya alamat IP yang terbatas.
+
+## Topologi
+
+Berikut merupakan topologi yang digunakan dalam metode CIDR dengan CPT:
+
+## Penggabungan IP
+
+## Tree
+
+Berikut merupakan tree yang digunakan dalam metode CIDR:
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/b53b7d14-3e73-4220-8b82-56488977a85f)
+
+## Pembagian IP
+
+Berikut pembagian IP yang digunakan pada metode VLSM. Namun, dikarenakan subnet yang digunakan memiliki length `/14` sehingga akan terdapat beberapa node yang dimulai tidak dengan prefix `10.0`
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/f0d3db83-c392-4969-8d3e-f17cdfbcf5e0)
