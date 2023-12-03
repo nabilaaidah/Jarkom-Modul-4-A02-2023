@@ -194,3 +194,205 @@ iface eth0 inet static
 	netmask 255.255.255.248
 	gateway 10.0.0.49
 ```
+
+- Denken
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.0.17
+	netmask 255.255.255.252
+
+auto eth1
+iface eth1 inet static
+	address 10.0.8.1
+	netmask 255.255.255.0
+```
+
+- Royal Capital (63 Host)
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.8.2
+	netmask 255.255.255.0
+	gateway 10.0.8.1
+```
+
+- Wille Region (63 Host)
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.8.3
+	netmask 255.255.255.0
+	gateway 10.0.8.1
+```
+
+- Eisen
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.0.22
+	netmask 255.255.255.252
+
+auto eth1
+iface eth1 inet static
+	address 10.0.0.57
+	netmask 255.255.255.248
+
+auto eth2
+iface eth2 inet static
+	address 10.0.0.33
+	netmask 255.255.255.252
+
+auto eth3
+iface eth3 inet static
+	address 10.0.0.29
+	netmask 255.255.255.252
+
+auto eth4
+iface eth4 inet static
+	address 10.0.0.25
+	netmask 255.255.255.252
+```
+
+- Richter
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.0.58
+	netmask 255.255.255.248
+	gateway 10.0.0.57
+```
+
+- Revolte
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.0.59
+	netmask 255.255.255.248
+	gateway 10.0.0.57
+```
+
+- Stark
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.0.26
+	netmask 255.255.255.252
+	gateway 10.0.0.25
+```
+
+- Lugner
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.0.30
+	netmask 255.255.255.252
+
+auto eth1
+iface eth1 inet static
+	address 10.0.9.1
+	netmask 255.255.255.0
+
+auto eth2
+iface eth2 inet static
+	address 10.0.16.1
+	netmask 255.255.252.0
+```
+
+- Turk Region (1000 Host)
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.16.2
+	netmask 255.255.252.0
+	gateway 10.0.16.1
+```
+
+- Grobe Forest (250 Host)
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.9.2
+	netmask 255.255.255.0
+	gateway 10.0.9.1
+```
+
+- Linie
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.0.34
+	netmask 255.255.255.252
+
+auto eth1
+iface eth1 inet static
+	address 10.0.0.37
+	netmask 255.255.255.252
+
+auto eth2
+iface eth2 inet static
+	address 10.0.10.1
+	netmask 255.255.254.0
+```
+
+- Granz Channel (254 Host)
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.10.2
+	netmask 255.255.254.0
+	gateway 10.0.10.1
+```
+
+- Lawine
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.0.38
+	netmask 255.255.255.252
+
+auto eth1
+iface eth1 inet static
+	address 10.0.2.193
+	netmask 255.255.255.192
+```
+
+- Bredt Region (25 Host)
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.2.194
+	netmask 255.255.255.192
+	gateway 10.0.2.193
+```
+
+- Heiter
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.2.195
+	netmask 255.255.255.192
+
+auto eth1
+iface eth1 inet static
+	address 10.0.20.1
+	netmask 255.255.252.0
+```
+
+- Riegel Canyon (510 Host)
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.20.3
+	netmask 255.255.252.0
+	gateway 10.0.20.1
+```
+
+- Sein
+```
+auto eth0
+iface eth0 inet static
+	address 10.0.20.2
+	netmask 255.255.252.0
+	gateway 10.0.20.1
+```
