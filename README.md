@@ -504,6 +504,22 @@ Berikut merupakan penggabungan IP yang dilakukan dalam metode CIDR:
 
 9. Penggabungan 8
 
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/f6ab8d05-89d8-4dce-87c8-e7f1eac441c5)
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/8201d212-9162-4864-a118-a279907efaab)
+
+10. Penggabungan 9
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/e259fea8-2078-4497-8ae8-c1b7d5465a19)
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/2bf5f5fa-6f64-4ecf-91de-cc33799aa3ce)
+
+11. Penggabungan 10
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/05bebfb8-e2e2-47ff-9b1c-104c5888e640)
+
+
+
 ## Tree
 
 Berikut merupakan tree yang digunakan dalam metode CIDR:
