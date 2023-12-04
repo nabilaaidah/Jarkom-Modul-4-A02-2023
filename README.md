@@ -450,7 +450,28 @@ CIDR, atau Classless Inter-Domain Routing, adalah metode pengalamatan IP yang me
 
 Berikut merupakan topologi yang digunakan dalam metode CIDR dengan CPT:
 
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/4acbae0d-c86a-4526-88a1-89b9445708aa)
+
 ## Penggabungan IP
+
+Berikut merupakan penggabungan IP yang dilakukan dalam metode CIDR:
+
+1. Awal Tree
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/09d6f9d9-6a91-4a1e-a0dc-da17fd1651ef)
+
+2. Penggabungan 1
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/5e937d9a-edc2-4c29-894e-35988c784c16)
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/65638906-330a-473d-8afc-f780c41a4bee)
+
+3. Penggabungan 2
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/0407957b-095a-4766-b7aa-bffa487aff54)
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/eeacce4f-d4e2-45b1-8202-9a8ba16b5976)
+
 
 ## Tree
 
