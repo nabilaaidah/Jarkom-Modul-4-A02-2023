@@ -441,6 +441,13 @@ iface eth0 inet static
 ![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/66d43e3b-a8a5-4e20-aab6-3e0ecae93f86)
 
 
+## Contoh
+
+Contoh melakukan ping:
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/8f8d3a55-c062-4f56-aa75-bb2453c64be9)
+
+
 
 # CIDR
 
@@ -623,3 +630,14 @@ Berikut pembagian IP yang digunakan pada metode VLSM. Namun, dikarenakan subnet 
 ```
 0.0.0.0/0 via 10.2.4.1
 ```
+
+## Contoh
+
+Contoh melakukan ping:
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/1568425f-117e-4808-9261-70df748bd1b5)
+
+
+# Kendala
+- Terlalu banyak untuk orang yang solo:(
+- Namanya susah banget diinget tolong
