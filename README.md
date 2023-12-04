@@ -537,8 +537,89 @@ Berikut merupakan tree yang digunakan dalam metode CIDR:
 
 ![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/b53b7d14-3e73-4220-8b82-56488977a85f)
 
+
 ## Pembagian IP
 
 Berikut pembagian IP yang digunakan pada metode VLSM. Namun, dikarenakan subnet yang digunakan memiliki length `/14` sehingga akan terdapat beberapa node yang dimulai tidak dengan prefix `10.0`
 
 ![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/f0d3db83-c392-4969-8d3e-f17cdfbcf5e0)
+
+
+## Routing
+
+- Aura
+```
+10.0.64.0/27 via 10.0.128.2
+10.0.16.0/22 via 10.0.128.2
+10.0.0.0/21 via 10.0.128.2
+10.0.20.0/29 via 10.0.128.2
+10.0.32.0/30 via 10.0.128.2
+10.0.8.0/30 via 10.0.128.2
+10.0.20.8/30 via 10.0.128.2
+10.2.80.0/29 via 10.2.128.2
+10.2.32.0/30 via 10.2.182.2
+10.2.16.0/23 via 10.2.128.2
+10.2.8.0/30 via 10.2.128.2
+10.2.4.0/26 via 10.2.128.2
+10.2.0.0/22 via 10.2.128.2
+10.0.1.0/24 via 10.0.2.2
+10.2.80.8/30 via 10.2.128.2
+10.2.72.0/30 via 10.2.128.2
+10.2.64.0/22 via 10.2.128.2
+10.2.64.0/22 via 10.2.128.2
+```
+
+- Frieren
+```
+10.0.16.0/22 via 10.0.32.2
+0.0.0.0/0 via 10.0.128.1
+10.0.0.0/21 via 10.0.32.2
+10.0.20.0/29 via 10.0.32.2
+10.0.8.0/30 via 10.0.32.2
+10.0.20.8/30 via 10.0.32.2
+```
+
+- Flamme
+```
+0.0.0.0/0 via 10.0.32.1
+10.0.0.0/21 via 10.0.8.1
+10.0.20.0/29 via 10.0.20.10
+```
+
+- Fern
+```
+0.0.0.0/0 via 10.0.8.2
+```
+
+- Himmel
+```
+0.0.0.0/0 via 10.0.20.9
+```
+
+- Denken
+```
+0.0.0.0/0 via 10.0.2.1
+```
+
+- Lugner
+```
+0.0.0.0/0 via 10.2.72.1
+```
+
+- Linie
+```
+0.0.0.0/0 via 10.2.32.1
+10.2.4.0/26 via 10.2.8.2
+10.2.0.0/22 via 10.2.8.2
+```
+
+- Lawine
+```
+0.0.0.0/0 via 10.2.8.1
+10.2.0.0/22 via 10.2.4.2
+```
+
+- Heiter
+```
+0.0.0.0/0 via 10.2.4.1
+```
