@@ -518,6 +518,17 @@ Berikut merupakan penggabungan IP yang dilakukan dalam metode CIDR:
 
 ![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/05bebfb8-e2e2-47ff-9b1c-104c5888e640)
 
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/1312217d-eceb-44b5-9919-ce78d03d5204)
+
+12. Penggabungan 11
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/55b44262-1884-417c-9cc3-f51a32ce30cc)
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/9b4d1450-8e80-4fb5-9a6b-cad6ddcafe72)
+
+13. Hasil akhir
+
+![image](https://github.com/nabilaaidah/Jarkom-Modul-4-A02-2023/assets/110476969/48e30b64-ba16-490a-ab18-8f9e8e8092e2)
 
 
 ## Tree
